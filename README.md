@@ -41,7 +41,7 @@ Data-driven professional bridging the gap between rigorous macroeconomic/statist
 ## 📬 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/An-Vo](https://www.linkedin.com/in/an-vo-52226941/) 
-* **Email:** [thanhan25@gmail.com]## Hi there 👋
+* **Email:** thanhan25@gmail.com
 
 <!--
 **thanhan25/thanhan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
