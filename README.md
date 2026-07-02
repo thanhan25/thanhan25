@@ -4,7 +4,7 @@
 📍 Based in Bonn, Germany (Open to Relocation / Hybrid)  
 💼 Seeking Junior/Entry Positions in Data Analytics, Data Science & Corporate Strategy
 
-Data-driven professional bridging the gap between rigorous econometric modeling and production-ready data pipelines. Experienced in containerizing Python tracking workflows, structuring high-performance relational architectures ($O(\log n)$ efficiency), and deploying corporate BI and antitrust simulation layers.
+Data-driven professional bridging the gap between rigorous econometric modeling and production-ready data pipelines. Experienced in containerizing Python tracking workflows, structuring high-performance relational architectures (O(log n) efficiency), and deploying corporate BI and antitrust simulation layers.
 
 ---
 
